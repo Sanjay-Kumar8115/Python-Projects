@@ -1,0 +1,12 @@
+Username  : Sanjay
+Domain  : gmail.com
+Username  : Kunal
+Domain  : hotmail.com
+Username  : Yash
+Domain  : yahoomail.com
+Username  : Sachin
+Domain  : msmail.com
+Domain  : gmail.com
+Username  : Sanjay
+Domain  : gmail.com
+Username  : Sank
